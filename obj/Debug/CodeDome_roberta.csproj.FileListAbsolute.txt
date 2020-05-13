@@ -1,0 +1,7 @@
+C:\Users\riciu\source\repos\CodeDome_roberta\CodeDome_roberta\bin\Debug\CodeDome_roberta.exe
+C:\Users\riciu\source\repos\CodeDome_roberta\CodeDome_roberta\bin\Debug\CodeDome_roberta.pdb
+C:\Users\riciu\source\repos\CodeDome_roberta\CodeDome_roberta\obj\Debug\CodeDome_roberta.csproj.CoreCompileInputs.cache
+C:\Users\riciu\source\repos\CodeDome_roberta\CodeDome_roberta\obj\Debug\CodeDome_roberta.exe
+C:\Users\riciu\source\repos\CodeDome_roberta\CodeDome_roberta\obj\Debug\CodeDome_roberta.pdb
+C:\Users\riciu\source\repos\CodeDome_roberta\CodeDome_roberta\bin\Debug\CodeDome_roberta.exe.config
+C:\Users\riciu\source\repos\CodeDome_roberta\CodeDome_roberta\obj\Debug\CodeDome_roberta.csprojAssemblyReference.cache
